@@ -1,0 +1,21 @@
+.title{
+color: darkgray;
+font-size:50 px;
+text-align:center;
+}
+.board{
+border-left:black 4px solid;
+padding: 50px;
+}
+.img{
+width: 200px;
+position:relative;
+left: 20px;}
+.chart{
+width:500px;
+height:500px;}
+.circ1{
+stroke: green; 
+fill: purple;
+stroke-width: 5px;
+}
